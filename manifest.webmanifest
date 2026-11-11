@@ -1,0 +1,16 @@
+{
+  "name": "Floriva Calm Paycheck",
+  "short_name": "Calm Paycheck",
+  "description": "Payday-to-payday budget: see an estimate of what is available until your next paycheck.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F6F6",
+  "theme_color": "#0F4C5C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
